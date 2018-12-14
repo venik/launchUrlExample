@@ -1,4 +1,5 @@
 # launchUrlExample
 
-[Example link](mypoc://)
+[Example link](mypoc://some_text)
+[Legit link](http://google.com)
 
