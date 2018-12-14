@@ -1,1 +1,4 @@
 # launchUrlExample
+
+[Example link](mypoc://)
+
